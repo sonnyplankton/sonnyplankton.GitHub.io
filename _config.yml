@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog i will keep track of my Data Science journey. I kindly
   ask for your feedback and feel free to share the site if you find it
-  uaeful.
+  useful.
 #twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
